@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Caroline Davis"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Personal Archive"
 name                     : &name "Caroline Davis" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Personal Archive"
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -98,8 +98,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Caroline2021-11 (1).jpeg"
-  bio              : "An engineer with a passion for teaching "
-  location         : "Nashville, TN"
+  bio              : "A chemical engineering student curious to explore the industry."
+  location         : "Lexington, KY"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
