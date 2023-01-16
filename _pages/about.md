@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Caroline Davis"
 
 ---
 
@@ -8,11 +8,8 @@ title: "About David Florian"
 
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Chemical Engineering (2021 - Present)
 
 ## Technical Skills
 
@@ -23,9 +20,3 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * Selective Laser Sintering (SLS)
 * 3D Inkjet Printing
 * Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/Caroline2021-11 (1).jpeg" alt="Caroline Davis" style="width:200px;"/>
