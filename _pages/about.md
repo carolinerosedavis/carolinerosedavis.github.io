@@ -6,7 +6,7 @@ title: "About Caroline Davis"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Caroline has some experience working in biotechnology and would like to further explore the field in the future. She is also interested in learning about brewing and distilling. 
 
 * Vanderbilt University
   * BE Chemical Engineering (2021 - Present)
