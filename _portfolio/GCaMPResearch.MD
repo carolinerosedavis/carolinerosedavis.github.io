@@ -8,8 +8,7 @@ gallery:
   - image_path: /assets/img/AAV Injection in Mouse.png
 ---
 
-I helped the Richards Lab in the Department of Chemistry at the University of Kentucky analyze some data and design some graphics for a published research article. I made one image showing how GCaMP functions in the presence of calcium, how GCaMP functions in the endoplasmic reticulum, and how AAV injection in mice works.
-https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c04321#
+I helped the Richards Lab in the Department of Chemistry at the University of Kentucky analyze some data and design some graphics for a [published research article](https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c04321#). I made one image showing how GCaMP functions in the presence of calcium, how GCaMP functions in the endoplasmic reticulum, and how AAV injection in mice works.
 
 <!-- # Features
 
