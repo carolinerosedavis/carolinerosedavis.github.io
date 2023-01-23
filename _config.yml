@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.linkedin.com/in/caroline-davis-b625a7202/"
 
 # Analytics
 analytics:
@@ -101,23 +101,17 @@ author:
   bio              : "A chemical engineering student who is curious to explore the industry."
   location         : "Lexington, KY"
   links:
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.linkedin.com/in/caroline-davis-b625a7202/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.linkedin.com/in/caroline-davis-b625a7202/"
 
 
 # Reading Files
