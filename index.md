@@ -16,7 +16,7 @@ feature_row:
     excerpt: "3D-printed with gray filament."
   - image_path: /assets/img/GCaMP Model 1.png
     alt: "GCaMP Illustration"
-    title: "GCaMP Illustrtion"
+    title: "GCaMP Illustration"
     excerpt: "A visual representation of how GCaMP functions. Created with BioRender.com."
   - image_path: /assets/img/IMG_8639.jpg
     alt: "Vanderbilt University Logo Keychain"
