@@ -99,7 +99,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Caroline2021-11 (1).jpeg"
   bio              : "A chemical engineering student who is curious to explore the industry."
-  location         : "Lexington, KY"
+  location         : "Nashville, TN"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
