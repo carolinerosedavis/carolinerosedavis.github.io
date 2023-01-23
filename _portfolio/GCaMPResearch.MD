@@ -8,6 +8,8 @@ gallery:
   - image_path: /assets/img/AAV Injection in Mouse.png
 ---
 
+"I helped the Richards Lab in the Department of Chemistry at the University of Kentucky analyze some data and design some graphics for a published research article. I made one image showing how GCaMP functions in the presence of calcium, how GCaMP functions in the endoplasmic reticulum, and how AAV injection in mice works."
+
 <!-- # Features
 
 * **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
@@ -16,6 +18,7 @@ gallery:
 
 # CAD Model
 <iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-{% include gallery caption="Large Format 3D Printer Gallery" %}
 -->
+
+{% include gallery caption="AAV injection in mice." %}
+
