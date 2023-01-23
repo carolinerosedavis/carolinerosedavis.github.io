@@ -9,7 +9,7 @@ title: "About Caroline Davis"
 Caroline has some experience working in biotechnology and would like to further explore the field in the future. She is also interested in learning about brewing and distilling. 
 
 * Vanderbilt University
-  * BE Chemical Engineering (2021 - Present)
+  * BE in Chemical Engineering (2021 - Present)
     * Minor in Chemistry
 
 ## Technical Skills
