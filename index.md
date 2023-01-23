@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Horses-in-a-pasture.webp
+  overlay_image: /assets/img/ada4761b-98f2-4a22-87b4-654580c5da66-AJ4T9084.webp
   actions:
     - label: "My Projects"
       url: "/portfolio/"
