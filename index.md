@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Welcome to Caroline Davis's Website"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Caroline Davis is from Lexington, KY, and is currently studying chemical engineering at Vanderbilt University. Caroline is intruiged by many engineering fields and looks forward to exploring a variety of career paths."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
