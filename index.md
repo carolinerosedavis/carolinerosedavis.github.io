@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/img/GCaMP Model 1.png
     alt: "GCaMP Illustration"
     title: "GCaMP Illustrtion"
-    excerpt: "A visual representation of how GCaMP functions."
+    excerpt: "A visual representation of how GCaMP functions. Created with BioRender.com."
   - image_path: /assets/img/IMG_8639.jpg
     alt: "Vanderbilt University Logo Keychain"
     title: "Vanderbilt University Logo Keychain"
