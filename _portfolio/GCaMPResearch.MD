@@ -1,14 +1,11 @@
 ---
-title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
+title: "GCaMP Research"
+excerpt: "Illustrations of GCaMP which were made for a scientific research article."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/ERGCaMP.png
+  teaser: /assets/img/GCaMP Model 1.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
-   
+  - image_path: /assets/img/AAV Injection in Mouse.png
 ---
 
 # Features
