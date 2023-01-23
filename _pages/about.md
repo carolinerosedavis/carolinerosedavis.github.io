@@ -10,6 +10,7 @@ Caroline has some experience working in biotechnology and would like to further 
 
 * Vanderbilt University
   * BE Chemical Engineering (2021 - Present)
+    * Minor in Chemistry
 
 ## Technical Skills
 
