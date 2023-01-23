@@ -2,8 +2,8 @@
 title: "3D-Printed Enderman"
 excerpt: "This was figure was designed using Autodesk Fusion 360."
 header:
-  image: /assets/img/IMG_4559.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/IMG_4559 (1).jpg
+  teaser: /assets/img/IMG_8643.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
@@ -16,6 +16,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+This was the first time I made a model to be 3D-printed using Autodesk Fusion 360. The goal was to create a figure based off the Enderman mob from Minecraft. A Voron 3D Printer was used to print this.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
