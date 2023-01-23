@@ -1,8 +1,8 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "3D-Printed Enderman"
+excerpt: "This was figure was designed using Autodesk Fusion 360."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
+  image: /assets/img/IMG_4559.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
