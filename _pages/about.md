@@ -22,4 +22,4 @@ Caroline has had the opportunity to learn about various softwares from her past 
 * ImageJ
 * BioRender
 
-image_path: /assets/img/B2C6D209-4F6E-401D-80C9-3862C9ED88EA.JPG
+![Caroline Davis](/assets/img/B2C6D209-4F6E-401D-80C9-3862C9ED88EA.JPG)
