@@ -14,10 +14,9 @@ Caroline has some experience working in biotechnology and would like to further 
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Caroline has had the opportunity to learn about various softwares from her past work. Caroline has experience with the following applications:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Autodesk Fusion 360
+* Autodesk Inventor
+* Python
+* ImageJ
