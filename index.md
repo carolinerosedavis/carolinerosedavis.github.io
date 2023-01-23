@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Caroline Davis's Website"
+title: "Welcome!"
 layout: splash
 header:
   overlay_color: "#000"
