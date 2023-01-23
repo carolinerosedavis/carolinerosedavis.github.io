@@ -10,17 +10,18 @@ header:
       url: "/portfolio/"
 excerpt: "Caroline Davis is from Lexington, KY, and is currently studying chemical engineering at Vanderbilt University. Caroline is intruiged by many engineering fields and looks forward to exploring a variety of career paths."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: /assets/img/IMG_8641.jpg
+    alt: "Minecraft Enderman"
+    title: "Minecraft Enderman Figure"
+    excerpt: "3D-printed with gray filament."
+  - image_path: /assets/img/GCaMP Model 1.png
+    alt: "GCaMP Illustration"
+    title: "GCaMP Illustrtion"
+    excerpt: "An visual representation of how GCaMP functions."
+  - image_path: /assets/img/IMG_8639.jpg
+    alt: "Vanderbilt University Logo Keychain"
+    title: "Vanderbilt University Logo Keychain"
+    excerpt: "3D-printed with gold filament."
 ---
 
 {% include feature_row %}
