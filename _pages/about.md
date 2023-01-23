@@ -20,3 +20,4 @@ Caroline has had the opportunity to learn about various softwares from her past 
 * Autodesk Inventor
 * Python
 * ImageJ
+* BioRender
