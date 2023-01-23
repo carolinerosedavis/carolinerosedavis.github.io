@@ -102,7 +102,7 @@ author:
   location         : "Lexington, KY"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/caroline-davis-b625a7202/"
 
 
@@ -110,7 +110,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/caroline-davis-b625a7202/"
 
 
