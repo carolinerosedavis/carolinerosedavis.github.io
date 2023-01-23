@@ -12,4 +12,4 @@ gallery:
 
 This was the first time I made a model to be 3D-printed using Autodesk Fusion 360. The goal was to create a figure based off the Enderman mob from Minecraft. A Voron 3D Printer was used to print this.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a picture taken at the beginning of the printing process." %}
