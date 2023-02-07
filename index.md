@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Caroline Davis is from Lexington, KY, and is currently studying chemical engineering at Vanderbilt University. Caroline is intruiged by many engineering fields and looks forward to exploring a variety of career paths."
+excerpt: "Caroline Davis is from Lexington, KY, and is currently studying chemical engineering at Vanderbilt University. Caroline is intrigued by many engineering fields and looks forward to exploring a variety of career paths."
 feature_row:
   - image_path: /assets/img/IMG_8641.jpg
     alt: "Minecraft Enderman"
