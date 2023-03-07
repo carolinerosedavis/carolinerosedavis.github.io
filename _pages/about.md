@@ -6,7 +6,7 @@ title: "About Caroline Davis"
 
 ## Education
 
-Caroline has some experience working in biotechnology and would like to further explore the field in the future. She is also interested in learning about brewing and distilling. 
+Caroline has some experience working in biotechnology and would like to further explore the field in the future. She is also interested in learning about water infrastructure management. 
 
 * Vanderbilt University
   * BE in Chemical Engineering (2021 - Present)
