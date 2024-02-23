@@ -16,10 +16,10 @@ Caroline has some experience working in biotechnology and would like to further 
 
 Caroline has had the opportunity to learn about various softwares from her past work. Caroline has experience with the following applications:
 
+* Aspen Plus
+* Bluebeam
 * Autodesk Fusion 360
-* Autodesk Inventor
 * Python
-* ImageJ
 * BioRender
 
 
